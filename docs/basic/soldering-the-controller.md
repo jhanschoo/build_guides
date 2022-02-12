@@ -1,6 +1,6 @@
 # Soldering the controller
 
-Use the set of holes that are outlined by the silkscreen on the side the controller will be installed on.
+Use the set of holes that are outlined by the silkscreen. Keep in mind the orientation of the pinout of the controller, as well as that the the controller should normally be soldered so that it sits on the the **top** face of the keyboard.
 
 ## with headers
 
