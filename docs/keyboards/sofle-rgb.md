@@ -45,6 +45,19 @@ This is the LED order:
 
 ![](../images/sofle-rgb/underglow-leds.gif)
 
+### Alternate method
+
+If you have the appropriate tools, especially liquid flux or preferably flux paste, the following drag-soldering-like method may result in more consistent joints.
+
+- Flux the pads, then apply heat to activate the flux to clean the pads.
+- Apply a generous amount of flux to the pads.
+- Place the 5050 LED on top and center.
+- Activate the flux again, making sure the flux drowns the contacts on both ends, but don't boil it all off.
+- Transfer a tiny ball of solder to the iron tip. If it is resistant to transfer, remember to clean it with flux and iron sponge.
+- Using e.g. tweezers to hold the LED in place with the other hand, transfer the solder to the joint. The solder should be eager to wet the contacts.
+
+You can do this for the per-key RGB LEDs as well; as for the other components, this may be unnecessary and flux-core solder might suffice. Before testing, don't forget to thoroughly clean the board to remove any flux residue that might short pins, especially with the per-key RGB LEDs. I used 99% isopropyl alcohol and a toothbrush. For the per-key RGB LEDs, the cutout will be drenched in flux after this procedure, so consider cleaning it.
+
 ## Solder per-key RGB LEDs
 
 > ⚠︎ LEDs can be very temperature sensitive, however this variant with the tabs are much easier to use and less prone to burning out. Still, take care to not allow too much heat to transfer.
